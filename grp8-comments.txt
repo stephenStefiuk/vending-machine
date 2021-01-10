@@ -1,0 +1,5 @@
+1. Consider moving the getChange() method into the Funds class.
+
+2. Good OOP choices for your product classes.
+
+Not much to complain about. Good job!
